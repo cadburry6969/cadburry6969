@@ -1,3 +1,6 @@
+### Discord:
+https://discord.gg/9tyjPkA6nd
+
 <img align="left" alt="Cadburry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cadburry6969&count_private=true&show_icons=true&theme=onedark" />
 
 ---
