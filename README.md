@@ -12,3 +12,6 @@
 | <a href="https://github.com/cadburry6969/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cadburry6969&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cadburry's github stats" /></a> | <a href="https://github.com/cadburry6969/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadburry6969&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+---
+
+Discord: https://discord.gg/9tyjPkA6nd
