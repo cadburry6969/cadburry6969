@@ -14,4 +14,4 @@
 
 ---
 
-Discord: https://discord.gg/9tyjPkA6nd
+Discord: https://discord.gg/qxGPARNwNP
