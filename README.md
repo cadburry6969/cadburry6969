@@ -3,7 +3,7 @@ I’m just a passionate coder and a keen learner.
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCvIYqBVJDro9pcT0rpjrQog) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OyeCadburry) 
 [![Discord](https://img.shields.io/badge/Discord-587DF2.svg?logo=Discord&logoColor=white)](https://discord.com/invite/qxGPARNwNP) 
 
 # 💻 Tech Stack:
